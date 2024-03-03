@@ -37,5 +37,3 @@ Follow these steps to effectively collaborate on a Git repository:
     ```bash
     git push origin <branch-name>
     ```
-
-By following this structured workflow, you can effectively manage your contributions to the project and maintain a clear history of changes.

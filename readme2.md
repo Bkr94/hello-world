@@ -26,7 +26,7 @@
 
 ### 7- Then push the changes to the branch on Github. 
 
-### git push origin <branch-name>
+`git push origin <branch-name>`
 
 ### if everything ok and the changes is good enogh to overwrite the old version then do 
 

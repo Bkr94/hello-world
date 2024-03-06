@@ -1,5 +1,11 @@
 # Git Workflow Guide
 
+#First time setup
+**Choose the Repository**: Get the link of the repo you want to push to: 
+```bash
+git remote add origin <url to repo>
+```
+
 Enhance your collaborative Git experience with these straightforward steps:
 
 1. **Clone the Repository**: Begin by cloning the repository you wish to contribute to. This creates a local copy of the project on your machine, allowing you to work on it.

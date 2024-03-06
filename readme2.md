@@ -1,6 +1,6 @@
 # Git Workflow Guide
 
-#First time setup
+# First time setup
 **Choose the Repository**: Get the link of the repo you want to push to: 
 ```bash
 git remote add origin <url to repo>
